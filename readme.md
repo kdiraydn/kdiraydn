@@ -58,15 +58,11 @@
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/abdulkadiraydin/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
         <a style="margin-left: 10px;" target="_blank" href="https://abdulkadiraydin.com">
-		<img src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png" width="40" height="40"></a>
+		<img src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png" width="40" height="40"</a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/kdiraydn/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/kdiraydn">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/c/kdiraydn">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://play.google.com/store/apps/">
-					<img src="https://cdn.iconscout.com/icon/free/png-256/playstore-2002562-1687192.png" width="40" height="40"></a>
       </div>
 
 </p>
