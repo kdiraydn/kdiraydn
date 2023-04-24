@@ -23,7 +23,7 @@
 - I’m a Software Developer. I have a strong knowledge base in programming languages. I have experience in developing software in many languages, such as .Net Core, Swift, Python, Troia(CaniasERP programming language), MSSQL, HTML, CSS. I have also gained expertise in project management bu using tools such as JIRA, WebAPI and Postman.
 <br>
 
-<p align="center"> <a href="https://github.com/kdiraydn/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kdiraydn&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
+
 
 
 <p align="center">
