@@ -1,74 +1,156 @@
-<h1 align="center"> 👋 Software Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Industrial%20Engineer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p>
+<div align="center">
 
-<p align='center'>
- <h1 align="center">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-  <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-</h1>
+# 🏥 ClinicFlow
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=kdiraydn" />
+**Özel klinikler için yapay zeka destekli işletim sistemi**
 
-<h1 align="center"></h1>
-<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=kdiraydn&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdiraydn&layout=compact&theme=aura&langs_count=9" />
-<img height="150" />
-<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
-<h2 align="left" font-weight="bold">About me</h2>  
-<br><br>
+<a href="https://clinicflow.com.tr">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=2DB6A3&center=true&vCenter=true&width=650&height=70&lines=%C3%96zel%20klinikler%20i%C3%A7in%20yapay%20zeka%20SaaS%27i;WhatsApp%20AI%20%C2%B7%20Telefon%20AI%20%C2%B7%20Ak%C4%B1ll%C4%B1%20Randevu;Instagram%20%26%20Meta%20Ads%20Otomasyonu;Tek%20panel%20%E2%80%94%20t%C3%BCm%20klinik%20operasyonu" alt="ClinicFlow" />
+</a>
 
-- I’m a Software Developer. I have a strong knowledge base in programming languages. I have experience in developing software in many languages, such as .Net Core, Swift, Python, Troia(CaniasERP programming language), MSSQL, HTML, CSS. I have also gained expertise in project management bu using tools such as JIRA, WebAPI and Postman.
-<br>
-
-
-
-
-<p align="center">
-  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-<br>
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
-<table>
-  <tr>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/codeigniter-5-1175246.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png?raw=true" width="200"></td>
-      <td><img src="https://camo.githubusercontent.com/63a0652105f53ca10fd7bb584ec3326ffda6c6988ca944bb21f6ba0d764bf8be/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f68746d6c352d34302d313137353139332e706e67?raw=true" width="200"></td>
-      <td><img src="https://camo.githubusercontent.com/16243b90ca0de67f1183e67f41fc6383ca998d81c3dd7166b32eda4db307f919/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f637373332d31312d313137353233392e706e67" width="200"></td>
-      <td><img src="https://camo.githubusercontent.com/98c835566bae35eab51c05d004bf08bdbcb287186f492e1aeb20fa37f71ca7ca/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f736173732d31332d313137353039322e706e67" width="200"></td>
-      <td><img src="https://camo.githubusercontent.com/2297aeb5bcb2b38bb190fcae27e1bf9b0fe08699446c23d48585443881bce4c3/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f6769742d31382d313137353231392e706e67" width="200"></td>
-  </tr>
-  <tr>
-    <td><img 
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?raw=true" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/sourcetree-2-1175090.png?raw=true" width="200"></td>
-  </tr>
-
-</table>
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-<p align="center">
+![Made in Türkiye](https://img.shields.io/badge/Made%20in-T%C3%BCrkiye-E30A17?style=flat-square)
+![Multi-tenant SaaS](https://img.shields.io/badge/Multi--tenant-SaaS-2DB6A3?style=flat-square)
+![AI Powered](https://img.shields.io/badge/AI-Powered-8B5CF6?style=flat-square)
+![Status](https://img.shields.io/badge/Core-Yay%C4%B1nda%20%E2%9C%85-22C55E?style=flat-square)
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/abdulkadiraydin/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://abdulkadiraydin.com">
-		<img src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png" width="40" height="40"</a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/kdiraydn/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/kdiraydn">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-      </div>
+</div>
 
-</p>
+---
 
-------
+## 👋 Merhaba
 
-Credit: [kdiraydn](https://github.com/kdiraydn)
+Ben **Abdülkadir Aydın** — Endüstri Mühendisi ve yazılım geliştirici. Kurumsal BT/altyapı tarafında çalışırken, kendi girişimim **ClinicFlow**'u geliştiriyorum: psikolog, diyetisyen, estetisyen ve diğer özel klinikler için randevudan iletişime, web sitesinden sosyal medyaya kadar tüm operasyonu otomatikleştiren bir SaaS ailesi.
 
-Last Edited on: 25/04/2023
+ClinicFlow üç tamamlayıcı üründen oluşur. Hepsi tek bir altyapı üzerinde, multi-tenant mimariyle çalışır.
+
+---
+
+## 🧩 Ürün Ailesi
+
+### 🏥 ClinicFlow — Core &nbsp; ![Live](https://img.shields.io/badge/Yay%C4%B1nda-22C55E?style=flat-square) &nbsp; `clinicflow.com.tr`
+
+> Kliniğinizin yapay zeka destekli iletişim ve randevu merkezi. Hastalarınızla 7/24 konuşur, randevu defterinizi otonom yönetir, hatırlatmaları kendisi gönderir.
+
+| | |
+|---|---|
+| 💬 **WhatsApp AI** | Hasta sorularını yanıtlar, randevu oluşturur, takip eder |
+| 📞 **Telefon AI** | Sesli yapay zeka ile çağrı karşılama ve yönlendirme |
+| 📅 **Akıllı Randevu** | Otonom randevu defteri, çakışma kontrolü, takvim senkronizasyonu |
+| 📨 **SMS / E-posta Otomasyonu** | Otomatik hatırlatma, onay ve geri kazanım akışları |
+
+<br/>
+
+### 🌐 ClinicFlow Site Builder &nbsp; `sites.clinicflow.com.tr`
+
+> Kliniğinize dakikalar içinde profesyonel bir web sitesi. Hazır şablonlar, kod bilgisi gerektirmez.
+
+| | |
+|---|---|
+| 🎨 **Hazır Şablonlar** | Klinik branşına özel, mobil uyumlu tasarımlar |
+| ⚡ **Dakikalar İçinde Yayında** | Kur, içeriğini gir, yayına al |
+| 🔧 **Teknik Bilgi Gerekmez** | Sürükle-bırak kolaylığı, bakım derdi yok |
+
+<br/>
+
+### 🤖 ClinicFlow Agent &nbsp; ![New](https://img.shields.io/badge/Yeni%20%F0%9F%86%95-8B5CF6?style=flat-square) &nbsp; `agent.clinicflow.com.tr`
+
+> Kliniğinizin yapay zeka sosyal medya ve reklam yöneticisi. Instagram içeriğinizi otonom üretir, Meta reklamlarınızı yönetir, performansınızı izler.
+
+| | |
+|---|---|
+| 📸 **Otomatik Post Üretimi** | Carousel ve görsel içerikleri uçtan uca otonom üretir |
+| ✍️ **İçerik Kişiselleştirme** | Marka tonu ve branşa göre uyarlanmış metin + tasarım |
+| 📣 **Reklam Yönetimi** | Meta Ads kampanyalarını kurar ve optimize eder |
+| 📊 **Meta Ads Paneli** | Tüm reklam hesabı tek ekranda |
+| 📈 **Performans İzleme** | Erişim, etkileşim ve dönüşüm metrikleri |
+| 🔗 **Meta Entegrasyonu** | Instagram & Facebook hesaplarıyla doğrudan bağlantı |
+| 🏢 **Tenant İzolasyonu** | Her klinik için izole, güvenli veri alanı |
+| 💳 **Abonelik Yönetimi** | Otonom faturalama ve plan yönetimi |
+
+---
+
+## 🗺️ Ekosistem
+
+Üç ürün, tek altyapı. Tek tek de kullanılır, bundle olarak da.
+
+```mermaid
+flowchart TD
+    Core("🏥 <b>ClinicFlow Core</b><br/>clinicflow.com.tr<br/>WhatsApp AI · Telefon AI · Randevu · SMS/E-posta")
+    Sites("🌐 <b>Site Builder</b><br/>sites.clinicflow.com.tr<br/>Hazır web sitesi şablonları")
+    Agent("🤖 <b>ClinicFlow Agent</b><br/>agent.clinicflow.com.tr<br/>Instagram + Meta Ads AI ajanı")
+    Bundle("💎 <b>Bundle Abonelik</b><br/>Üç ürün → tek fatura")
+
+    Core --> Sites
+    Core --> Agent
+    Sites --> Bundle
+    Agent --> Bundle
+
+    classDef core fill:#2DB6A3,stroke:#1f8378,color:#ffffff;
+    classDef sites fill:#4F86C6,stroke:#37618f,color:#ffffff;
+    classDef agent fill:#8B5CF6,stroke:#6d3fc0,color:#ffffff;
+    classDef bundle fill:#F59E0B,stroke:#b87708,color:#ffffff;
+    class Core core;
+    class Sites sites;
+    class Agent agent;
+    class Bundle bundle;
+```
+
+<div align="center">
+
+### 💎 Bundle Abonelik
+**Üç ürünü tek pakette, tek faturayla.** &nbsp;Klinik operasyonunun tamamı — iletişim, web ve sosyal medya — tek yerden.
+
+</div>
+
+---
+
+## 🛠️ Teknoloji
+
+<div align="center">
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js%2014-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+</div>
+
+**Mimari:** Multi-tenant (schema-per-tenant) · EF Core · RabbitMQ tabanlı asenkron iş kuyruğu · Coolify üzerinde CI/CD (GitHub Actions) · Cloudflare DNS · wildcard subdomain routing.
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=kdiraydn&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdiraydn&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🤝 İletişim
+
+<div align="center">
+
+[![Web](https://img.shields.io/badge/ClinicFlow-2DB6A3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://clinicflow.com.tr)
+[![Kişisel Site](https://img.shields.io/badge/abdulkadiraydin.com-0076D6?style=for-the-badge&logo=about.me&logoColor=white)](https://abdulkadiraydin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulkadiraydin/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kdiraydn/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kdiraydn)
+
+<br/>
+
+<sub>💚 Kliniğinizi yapay zekayla büyütün — <a href="https://clinicflow.com.tr">clinicflow.com.tr</a></sub>
+
+</div>
