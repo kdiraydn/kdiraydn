@@ -21,7 +21,7 @@
 
 ## 👋 Merhaba
 
-Ben **Abdülkadir Aydın** — Endüstri Mühendisi ve yazılım geliştirici. Kurumsal BT/altyapı tarafında çalışırken, kendi girişimim **ClinicFlow**'u geliştiriyorum: psikolog, diyetisyen, estetisyen ve diğer özel klinikler için randevudan iletişime, web sitesinden sosyal medyaya kadar tüm operasyonu otomatikleştiren bir SaaS ailesi.
+Ben **Kadir Aydın** — Endüstri Mühendisi ve yazılım geliştirici. Kurumsal BT/altyapı tarafında çalışırken, kendi girişimim **ClinicFlow**'u geliştiriyorum: psikolog, diyetisyen, estetisyen ve diğer özel klinikler için randevudan iletişime, web sitesinden sosyal medyaya kadar tüm operasyonu otomatikleştiren bir SaaS ailesi.
 
 ClinicFlow üç tamamlayıcı üründen oluşur. Hepsi tek bir altyapı üzerinde, multi-tenant mimariyle çalışır.
 
