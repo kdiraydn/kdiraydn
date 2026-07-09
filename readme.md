@@ -13,6 +13,7 @@
 ![Made in Türkiye](https://img.shields.io/badge/Made%20in-T%C3%BCrkiye-E30A17?style=flat-square)
 ![Multi-tenant SaaS](https://img.shields.io/badge/Multi--tenant-SaaS-2DB6A3?style=flat-square)
 ![AI Powered](https://img.shields.io/badge/AI-Powered-8B5CF6?style=flat-square)
+![Meta Tech Provider](https://img.shields.io/badge/Meta-Tech%20Provider-0668E1?style=flat-square&logo=meta&logoColor=white)
 ![Status](https://img.shields.io/badge/Core-Yay%C4%B1nda%20%E2%9C%85-22C55E?style=flat-square)
 
 </div>
@@ -39,6 +40,8 @@ ClinicFlow üç tamamlayıcı üründen oluşur. Hepsi tek bir altyapı üzerind
 | 📞 **Telefon AI** | Sesli yapay zeka ile çağrı karşılama ve yönlendirme |
 | 📅 **Akıllı Randevu** | Otonom randevu defteri, çakışma kontrolü, takvim senkronizasyonu |
 | 📨 **SMS / E-posta Otomasyonu** | Otomatik hatırlatma, onay ve geri kazanım akışları |
+
+<sub>✅ Meta onaylı <b>Tech Provider</b> — WhatsApp AI, resmi <b>WhatsApp Business API</b> üzerinde çalışır.</sub>
 
 <br/>
 
