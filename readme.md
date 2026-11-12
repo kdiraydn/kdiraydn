@@ -1,11 +1,11 @@
 <div align="center">
 
-# 🏥 ClinicFlow &nbsp;·&nbsp; ✨ SociAgent
+# 🏥 ClinicFlow &nbsp;·&nbsp; ✨ SociAgent &nbsp;·&nbsp; 💬 ReplyOz &nbsp;·&nbsp; 🖥️ Endpoint User
 
-**Özel klinikler için yapay zeka işletim sistemi · Her işletme için yapay zeka sosyal medya ekibi**
+**Özel klinikler için yapay zeka işletim sistemi · Her işletme için yapay zeka sosyal medya ekibi · Yorumu DM'e çeviren otomasyon · Windows uç nokta yönetimi**
 
 <a href="https://clinicflow.com.tr">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=2DB6A3&center=true&vCenter=true&width=700&height=70&lines=%C3%96zel%20klinikler%20i%C3%A7in%20yapay%20zeka%20SaaS%27i;WhatsApp%20AI%20%C2%B7%20Telefon%20AI%20%C2%B7%20Ak%C4%B1ll%C4%B1%20Randevu;SociAgent%20%E2%80%94%20AI%20sosyal%20medya%20ekibi;%C3%9Cret%20%C2%B7%20Planla%20%C2%B7%20Yay%C4%B1nla%20%C2%B7%20Reklam%20y%C3%B6net" alt="ClinicFlow & SociAgent" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=2DB6A3&center=true&vCenter=true&width=700&height=70&lines=%C3%96zel%20klinikler%20i%C3%A7in%20yapay%20zeka%20SaaS%27i;WhatsApp%20AI%20%C2%B7%20Telefon%20AI%20%C2%B7%20Ak%C4%B1ll%C4%B1%20Randevu;SociAgent%20%E2%80%94%20AI%20sosyal%20medya%20ekibi;%C3%9Cret%20%C2%B7%20Planla%20%C2%B7%20Yay%C4%B1nla%20%C2%B7%20Reklam%20y%C3%B6net;ReplyOz%20%E2%80%94%20Yorumdaki%20kelime%2C%20DM%27deki%20cevap;Endpoint%20User%20%E2%80%94%20Windows%20u%C3%A7%20nokta%20y%C3%B6netimi" alt="ClinicFlow & SociAgent" />
 </a>
 
 <br/>
@@ -16,6 +16,8 @@
 ![Meta Tech Provider](https://img.shields.io/badge/Meta-Tech%20Provider-0668E1?style=flat-square&logo=meta&logoColor=white)
 ![ClinicFlow](https://img.shields.io/badge/ClinicFlow-Yay%C4%B1nda%20%E2%9C%85-22C55E?style=flat-square)
 ![SociAgent](https://img.shields.io/badge/SociAgent-Geli%C5%9Ftiriliyor%20%F0%9F%9A%A7-F97316?style=flat-square)
+![ReplyOz](https://img.shields.io/badge/ReplyOz-Geli%C5%9Ftiriliyor%20%F0%9F%9A%A7-9B1B4F?style=flat-square)
+![Endpoint User](https://img.shields.io/badge/Endpoint%20User-Pilot%20%C3%B6ncesi%20%F0%9F%9A%A7-0D4F5C?style=flat-square)
 
 </div>
 
@@ -23,12 +25,14 @@
 
 ## 👋 Merhaba
 
-Ben **Kadir Aydın** — Endüstri Mühendisi ve yazılım geliştirici. Kurumsal BT/altyapı tarafında çalışırken iki ayrı ürün geliştiriyorum:
+Ben **Kadir Aydın** — Endüstri Mühendisi ve yazılım geliştirici. Kurumsal BT/altyapı tarafında çalışırken birbirinden bağımsız ürünler geliştiriyorum:
 
 - **ClinicFlow** — psikolog, diyetisyen, estetisyen ve diğer özel klinikler için randevudan iletişime, web sitesinden sosyal medyaya kadar operasyonu otomatikleştiren SaaS ailesi.
 - **SociAgent** — klinik veya sektör ayrımı olmadan, tüm KOBİ'ler, ajanslar ve içerik üreticileri için global bir yapay zeka sosyal medya ekibi.
+- **ReplyOz** — Instagram'da bir gönderiye yazılan anahtar kelimeyi, kişiye giden özel bir DM'e çeviren SaaS. *Yorumdaki kelime, DM'deki cevap.*
+- **Endpoint User** — Active Directory kullanan kurumların Windows bilgisayarlarını sessiz çalışan bir agent ile envanterleyen, izleyen ve imzalı komutlarla yöneten uç nokta yönetim platformu.
 
-İkisi de multi-tenant mimariyle çalışır, ayrı ürünlerdir.
+Hepsi ayrı ürün ve ayrı markadır; ClinicFlow ve SociAgent multi-tenant mimariyle çalışır.
 
 ---
 
@@ -147,9 +151,80 @@ flowchart LR
 
 ---
 
+## 💬 ReplyOz
+
+<div align="center">
+
+<a href="https://replyoz.com">
+  <img src="https://img.shields.io/badge/replyoz.com-Geli%C5%9Ftiriliyor-9B1B4F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="replyoz.com" />
+</a>
+
+### 💬 ReplyOz
+**Yorumdaki kelime, DM'deki cevap.**<br/>
+<sub>Anahtar kelimeni seç, mesajını yaz, kampanyanı başlat.</sub>
+
+</div>
+
+ReplyOz; Instagram gönderilerine yazılan anahtar kelimeyi yakalayıp o yorumu yazan kişiye özel bir DM gönderen bir SaaS'tir. Kişi DM'i her zaman kendi yorumu sayesinde alır.
+
+| | |
+|---|---|
+| 🔑 **Anahtar Kelime** | Gönderinde belirlediğin kelimeyi yakalar (örn. `REHBER`) |
+| 💬 **Özel Yanıt** | Kelimeyi yazan kişiye, yorumuna karşılık özel DM gönderir |
+| ✅ **Takip Şartı** | İsteğe bağlı: DM'den önce takip kontrolü |
+| 📣 **Kampanyalar** | Gönderi bazında kampanya oluştur ve yönet |
+| 🧾 **DM Kaydı** | Giden mesajların kaydı tek yerde |
+
+```mermaid
+flowchart LR
+    A("💬 <b>Yorum yazılır</b><br/>Anahtar kelime") --> B("✅ <b>Takip kontrolü</b><br/>İsteğe bağlı")
+    B --> C("📩 <b>DM gider</b><br/>Özel yanıt")
+
+    classDef a fill:#9B1B4F,stroke:#6e1236,color:#ffffff;
+    classDef b fill:#F5D547,stroke:#b39a1c,color:#2a0a1e;
+    class A,C a;
+    class B b;
+```
+
+<sub>Meta (Instagram) entegrasyonu · Coolify üzerinde yayında · Cloudflare DNS</sub>
+
+---
+
+## 🖥️ Endpoint User
+
+<div align="center">
+
+<a href="https://endpointagent.com.tr">
+  <img src="https://img.shields.io/badge/endpointagent.com.tr-Pilot%20%C3%B6ncesi-0D4F5C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="endpointagent.com.tr" />
+</a>
+
+### 🖥️ Endpoint User
+**Active Directory'li kurumlar için Windows uç nokta yönetimi.**
+
+**Her bilgisayar görünür, her işlem kayıtlı.**
+
+</div>
+
+Endpoint User; mağaza, depo ve ofislere dağılmış Windows bilgisayarları sessiz çalışan bir agent ile envanterler, izler ve imzalı komutlarla uzaktan yönetir. Yalnızca Windows ve Active Directory odaklı, tek amaçlı bir üründür.
+
+| | |
+|---|---|
+| 🖥️ **Envanter ve İzleme** | Cihaz, oturum ve durum bilgisi tek panelde |
+| 🔐 **İmzalı Komutlar** | Ed25519 imza, geçerlilik süresi, tekrar önleme ve komut izin listesi; serbest komut satırı yok |
+| 🧾 **Denetim Kaydı** | Hash zincirli kayıt; veritabanı güncellemeyi ve silmeyi engeller |
+| ✅ **Uyumluluk** | Politika motoru, cihaz skoru, alarm kuralları, PDF/Excel raporlar |
+| 🛡️ **Ayrıcalıklı Erişim** | LAPS parolası saklanmaz, gerekçeyle okunur ve kayda yazılır; çok cihazı etkileyen güç komutları ikinci yönetici onayı bekler |
+| 👥 **Rol ve Kapsam** | Roller AD grubuna eşlenir, kapsam kısıtı vardır |
+| 🙈 **Gizlilik** | Ekran görüntüsü, tuş kaydı, dosya içeriği ve tarayıcı geçmişi toplanmaz |
+| 🏢 **Sunum Modeli** | Kendi altyapında kurulum ya da bulutta yalıtılmış kurulum |
+
+<sub>.NET · SignalR (WebSocket) · Ed25519 · Active Directory / LDAPS · MSI + GPO dağıtımı · Her müşteri için ayrı, yalıtılmış kurulum</sub>
+
+---
+
 ## 🗺️ Ekosistem
 
-ClinicFlow'un üç ürünü tek altyapıda, tek tek de bundle olarak kullanılır. **SociAgent** ise klinik odaklı olmayan, global ve bağımsız ayrı bir üründür.
+ClinicFlow'un üç ürünü tek altyapıda, tek tek de bundle olarak kullanılır. **SociAgent**, **ReplyOz** ve **Endpoint User** ise ClinicFlow'dan ve birbirinden bağımsız, ayrı ürünlerdir.
 
 ```mermaid
 flowchart TD
@@ -168,16 +243,28 @@ flowchart TD
         Soci("✨ <b>SociAgent</b><br/>sociagent.ai<br/>Studio · Calendar · Brand Brain<br/>Ad Autopilot · Hermes · Insights")
     end
 
+    subgraph RO ["💬 ReplyOz — Instagram DM otomasyonu"]
+        Reply("💬 <b>ReplyOz</b><br/>replyoz.com<br/>Anahtar kelime · Özel yanıt · Takip şartı")
+    end
+
+    subgraph EU ["🖥️ Endpoint User — Kurumsal BT"]
+        Endpoint("🖥️ <b>Endpoint User</b><br/>endpointagent.com.tr<br/>Windows uç nokta yönetimi · AD")
+    end
+
     classDef core fill:#2DB6A3,stroke:#1f8378,color:#ffffff;
     classDef sites fill:#4F86C6,stroke:#37618f,color:#ffffff;
     classDef agent fill:#8B5CF6,stroke:#6d3fc0,color:#ffffff;
     classDef bundle fill:#F59E0B,stroke:#b87708,color:#ffffff;
     classDef soci fill:#F97316,stroke:#c2570c,color:#ffffff;
+    classDef reply fill:#9B1B4F,stroke:#6e1236,color:#ffffff;
+    classDef endpoint fill:#0D4F5C,stroke:#093640,color:#ffffff;
     class Core core;
     class Sites sites;
     class Agent agent;
     class Bundle bundle;
     class Soci soci;
+    class Reply reply;
+    class Endpoint endpoint;
 ```
 
 <div align="center">
@@ -211,6 +298,8 @@ flowchart TD
 **Mimari:**
 - **ClinicFlow:** Multi-tenant (schema-per-tenant) · EF Core · RabbitMQ tabanlı asenkron iş kuyruğu · wildcard subdomain routing.
 - **SociAgent:** Paylaşımlı şema + `organization_id` + PostgreSQL Row-Level Security · pgvector (RAG) · Playwright + FFmpeg render servisi · Expo mobil istemci.
+- **ReplyOz:** Instagram (Meta) entegrasyonlu anahtar kelime → özel DM akışı · Coolify üzerinde yayında.
+- **Endpoint User:** Windows agent + sunucu bileşeni · SignalR (WebSocket) üzerinden giden 443 kanalı · Ed25519 imzalı komut modeli · hash zincirli denetim kaydı · AD/LDAPS entegrasyonu · MSI + GPO dağıtımı · müşteri başına yalıtılmış kurulum.
 - **Ortak:** Coolify üzerinde CI/CD (GitHub Actions) · Cloudflare DNS.
 
 ---
@@ -232,6 +321,8 @@ flowchart TD
 
 [![ClinicFlow](https://img.shields.io/badge/ClinicFlow-2DB6A3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://clinicflow.com.tr)
 [![SociAgent](https://img.shields.io/badge/SociAgent-F97316?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sociagent.ai)
+[![ReplyOz](https://img.shields.io/badge/ReplyOz-9B1B4F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://replyoz.com)
+[![Endpoint User](https://img.shields.io/badge/Endpoint%20User-0D4F5C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://endpointagent.com.tr)
 [![Kişisel Site](https://img.shields.io/badge/abdulkadiraydin.com-0076D6?style=for-the-badge&logo=about.me&logoColor=white)](https://abdulkadiraydin.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulkadiraydin/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kdiraydn/)
@@ -239,6 +330,6 @@ flowchart TD
 
 <br/>
 
-<sub>💚 Kliniğinizi yapay zekayla büyütün — <a href="https://clinicflow.com.tr">clinicflow.com.tr</a> &nbsp;·&nbsp; ✨ Markanızın sosyal medya ekibi — <a href="https://sociagent.ai">sociagent.ai</a></sub>
+<sub>💚 Kliniğinizi yapay zekayla büyütün — <a href="https://clinicflow.com.tr">clinicflow.com.tr</a> &nbsp;·&nbsp; ✨ Markanızın sosyal medya ekibi — <a href="https://sociagent.ai">sociagent.ai</a> &nbsp;·&nbsp; 💬 Yorumdaki kelime, DM'deki cevap — <a href="https://replyoz.com">replyoz.com</a> &nbsp;·&nbsp; 🖥️ Her bilgisayar görünür, her işlem kayıtlı — <a href="https://endpointagent.com.tr">endpointagent.com.tr</a></sub>
 
 </div>
